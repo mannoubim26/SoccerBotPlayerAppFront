@@ -8,7 +8,7 @@ export default function SessionsCardScreen() {
 
   const apiURL = 'http://172.28.16.1:8000';
   const argentinaFlag = require('../assets/Flags/AR.png');
-  const [TotalScore, setTotalScore] = useState('n/a');
+  const [TotalScore, setTotalScore] = useState('');
   const [TotalGames, setTotalGames] = useState(0);
   const [TrainingSessionsCount, setTrainingSessionsCount] = useState(0);
 
