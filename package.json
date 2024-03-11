@@ -30,6 +30,7 @@
     "react-native-snackbar": "^2.6.2",
     "react-native-svg": "^14.1.0",
     "reflect-metadata": "^0.2.1",
+    "styled-components": "^6.1.8",
     "yup": "^1.4.0"
   },
   "devDependencies": {
